@@ -1,4 +1,4 @@
-# h_farm_group_work (Work in Progress)
+# h_farm_group_work (Work in Progress, soon on Github)
 group work
 Links:
 
