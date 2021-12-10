@@ -1,4 +1,5 @@
-# Group Work, Business Analytics, December 2021
+# Group Work, Business Analytics, MS in Data Science
+*Customer Stream improvement proposal, December 2021*
 ## Authors
 * Chiavarino Federico
 * Giancola Simone [Linkedin](https://www.linkedin.com/in/simone-maria-giancola-011465173/) | [webpage](https://simonegiancola09.github.io/) | [e-mail](mailto:simonegiancola09@gmail.com)
