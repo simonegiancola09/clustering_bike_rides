@@ -1,4 +1,4 @@
-# Group Work, Business Analytics, MS in Data Science
+# Capital Bike Share rides Clustering and business Analysis
 *Customer Stream improvement proposal, December 2021*
 ## Authors
 * Chiavarino Federico
